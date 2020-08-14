@@ -6,15 +6,16 @@
 </div>
 
 **************************
-<h2>Introduction</h2>
+<h2>👋 Hi, I'm Chris</h2>
 
-* Name: 박준영 | Junyeong Park
-* Email: mu072468@gmail.com
-* Github: https://github.com/hallymer
-* youtube : https://www.youtube.com/user/mu072468
-
-[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 **************************
+<h2>🛠 Tech Stack</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallymer)](https://github.com/anuraghazra/github-readme-stats)
+**************************
+<h2>🤝🏻Connect with Me</h2>
+
 <!--
 **hallymer/hallymer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
