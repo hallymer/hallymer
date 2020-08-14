@@ -16,11 +16,13 @@
 ## 🤝🏻Connect with Me
 <div align = center>
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.ismailhabibi%40gmail.com)](mailto:contact.mu072468@gmail.com)
-[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fismailhabibi)](https://linkedin.com/in/junyeong-park-2461071b4)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://facebook.com/profile.php?id=100007868465545)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/korea_chris)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu072468@gmail.com)](mailto:mu072468@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/junyeong-park-2461071b4)](https://linkedin.com/in/junyeong-park-2461071b4) 
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/mu072468/featured?view_as=subscriber)](https://www.youtube.com/user/mu072468/featured?view_as=subscriber)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/profile.php?id=100007868465545)](https://facebook.com/profile.php?id=100007868465545) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/korea_chris)](https://instagram.com/korea_chris)
 </div>
+
 <!--
 **hallymer/hallymer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
