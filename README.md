@@ -8,6 +8,7 @@
 
 * 🎓 Studying Big Data at Hallym University
 * 🌱 Currently learning HTML, CSS, JS, Python3
+* youtube : https://www.youtube.com/user/mu072468
 
 **************************
 ## 🛠 Tech Stack
