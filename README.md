@@ -11,7 +11,7 @@
 
 **************************
 ## 🛠 Tech Stack
-<br>[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallymer)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallymer)](https://github.com/anuraghazra/github-readme-stats)
 **************************
 ## 🤝🏻Connect with Me
 <div align = center>
