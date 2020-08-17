@@ -17,6 +17,7 @@
 ## 🤝🏻Connect with Me
 <div align = center>
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hallymer.github.io/)](https://hallymer.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu072468@gmail.com)](mailto:mu072468@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/junyeong-park-2461071b4)](https://linkedin.com/in/junyeong-park-2461071b4) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/mu072468/featured?view_as=subscriber)](https://www.youtube.com/user/mu072468/featured?view_as=subscriber)
