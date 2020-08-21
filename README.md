@@ -5,7 +5,7 @@
 <br>[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
-## 👋 Hi, I'm Junyeong Park👋
+## 👋 Hi, I'm Junyeong Park
 
 * 🎓 Studying Big Data at Hallym University
 * 🌱 Currently learning HTML, CSS, JS, Python3
