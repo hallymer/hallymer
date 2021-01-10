@@ -8,7 +8,7 @@
 ## 👋 Hi, I'm Junyeong Park
 
 * 🎓 Studying Big Data at Hallym University
-* 🌱 Currently learning HTML, CSS, JS, Python3
+* 🌱 Currently learning R, Python3
 
 **************************
 ## 🛠 Tech Stack
