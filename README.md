@@ -14,13 +14,6 @@
 [Inflearn]:https://www.inflearn.com/community/questions
 [파이썬입문]:https://inf.run/CyKc
 
-<div align = center>
-
-<img src="https://user-images.githubusercontent.com/59460979/106352231-8ec24180-6324-11eb-8e86-f9fe73d158a7.png" width="300" height="300">
-<img src="https://user-images.githubusercontent.com/59460979/106352214-6d615580-6324-11eb-9ae7-11c9ba61c1ca.png" width="100" height="300">
-
-</div>
-
 **************************
 ## 🛠 Tech Stack
 <div align = center>
