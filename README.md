@@ -11,7 +11,7 @@
 * 🌱 Currently learning R, Python3
 * ✍️ I am currently answering Python questions in one of the [Inflearn][Inflearn] lectures, [프로그래밍 시작하기 : 파이썬 입문(Inflearn Original)][파이썬입문].
 
-[Inflearn]:https://www.inflearn.com/community/questions
+[Inflearn]:https://www.inflearn.com/
 [파이썬입문]:https://inf.run/CyKc
 
 **************************
