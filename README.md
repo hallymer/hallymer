@@ -6,7 +6,7 @@
 </div>
 
 ## 👋 Hi, I'm Junyeong Park
-
+* Resume: https://github.com/hallymer/RESUME (🔨)
 * 🎓 Studying Big Data at Hallym University
 * 🌱 Currently learning R, Python3
 * ✍️ I am currently answering Python questions in one of the [Inflearn][Inflearn] lectures, [프로그래밍 시작하기 : 파이썬 입문(Inflearn Original)][파이썬입문].
