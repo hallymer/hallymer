@@ -1,6 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JunYeongPark&fontSize=70&animation=twinkling)
+<br>
+  <div align=center> 
+ 
 <div align = center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhallymer)](https://hits.seeyoufarm.com) 
+![GitHub followers](https://img.shields.io/github/followers/hallymer?color=blue&label=Follower&style=plastic)
 
 <br>[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
