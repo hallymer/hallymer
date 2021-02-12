@@ -9,6 +9,7 @@
 
 <br>[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
+</div>
 
 ## 👋 Hi, I'm Junyeong Park
 * Resume: https://github.com/hallymer/RESUME (🔨)
